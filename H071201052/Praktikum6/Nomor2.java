@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class CharacterMatrix{
+public class Nomor2{
   
     public static void main(String[] args) {
     Scanner iu = new Scanner(System.in);
